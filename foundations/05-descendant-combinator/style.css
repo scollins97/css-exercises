@@ -1,0 +1,8 @@
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/*what this is saying is only text children classes with a
+container ancestor will get these traits*/
